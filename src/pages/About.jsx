@@ -17,7 +17,7 @@ export default function About() {
             </p>
 
             <div >
-                <img src="/src/assets/pizzapixel.svg" alt="Pizzería" />
+                <img src="/pizzapixel.svg" alt="Pizzería" />
             </div>
         </div>
     );
